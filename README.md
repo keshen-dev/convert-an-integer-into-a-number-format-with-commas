@@ -1,5 +1,5 @@
 
-Here are some examples of how to convert an integer into a number format with commas in various programming languages:
+# Here are some examples of how to convert an integer into a number format with commas in various programming languages:
 
 JavaScript:
 
